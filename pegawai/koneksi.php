@@ -1,0 +1,1 @@
+<?php $koneksi = mysqli_connect("localhost","root","","balai") or die ("koneksi gagal"); ?>

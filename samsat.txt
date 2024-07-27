@@ -1,0 +1,31 @@
+master
+1.data ranmor
+2.data pemilik ranmor (TAMBAH NO STNK)
+3.dataharga pajak ranmor tergantung tahun dan jenis
+
+-laporan-
+-laporan data stnk dinonaktifkan
+-laporan data pembayaran pajak perhari
+-laporan data pembayaran pajak perbulan
+
+-laporan data balik nama kendaraan bermotor
+-laporan data Pembayaran Sumbangan Wajib Dana Kecelakaan Lalu Lintas dan Angkutan Jalan
+-laporan identifikasi kendaraan bermotor(informasi pencarian yg bisa dicetak)
+-laporan data ganti plat ranmor
+
+
+
+HARGA
+-Jenis ganti CC
+
+Pemilik Ranmor
+-Relasi dengan harga berdasarkan CC
+
+Pengembalian Balik Nama
+-Relasi dengan pemilik. Tambah = nama pemilik baru, tanggal balik nama, biaya balik nama dan upload biaya(struck bayar)
+
+Ganti Plat nomor
+-Relasi dengan pemilik. Tambah = tanggal ganti plat, biaya ganti plat dan upload biaya(struck bayar)
+
+
+

@@ -1,0 +1,20 @@
+1. Validasi untuk peminjaman (Pemberitahuan)
+ Gak bisa lagi di pinjam di waktu yang sama kecuali telah selesai di pinjam
+ Memakai tambahan pencarian pada ComboBox
+
+2. Saran Ibu Desy : Di buat Kalender Agenda Peminjaman, Seperti tanggal sekian apa saja 
+yng di pinjam, lalu yang masih dipakai tidak bisa di pinjam lagi kecuali sudah selesai.
+ Dibuat waktu (pagi, siang, malam) semisal pinjam pagi dan selesai siang berarti 
+dapat di pinjam lagi malam hari.
+
+3. Typo yang seharusnya edit Data peminjaman sapras
+
+4. Combo box pencarian di tambahkan agar memudahkan. Semua Combobox baik itu 
+nama pegawai , sapras, dll.
+
+5. Saran Ibunya Untuk Sarana Dipisah mana itu sarana lab mana itu sarana yang lain 
+(tercampur) atau bisa menggunakan pencarian combobox yang di atas.
+
+6. Laporan rekap : tanggal peminjam, tanggal pengembalian, lama pinjaman.
+
+7. Diperjelas lagi untuk peminjaman
